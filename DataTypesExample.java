@@ -2,19 +2,19 @@
 
 public class DataTypesExample {
     public static void main(String[] args) {
-        // Integer data type
+        // Integer data types
         int integerNumber = 100;
         System.out.println("Integer: " + integerNumber);
 
-        // Floating point data type
+        // Floating point data types
         double doubleNumber = 12.34;
         System.out.println("Double: " + doubleNumber);
 
-        // Character data type
+        // Character data types
         char character = 'A';
         System.out.println("Character: " + character);
 
-        // Boolean data type
+        // Boolean data types
         boolean flag = true;
         System.out.println("Boolean: " + flag);
     }
