@@ -1,4 +1,4 @@
-// This program demonstrates multiple inheritance using interfaces in Java
+// This program demonstrates multiple inheritance using interface in Java
 
 // Interface 1
 interface Flyable {
