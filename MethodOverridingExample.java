@@ -1,4 +1,4 @@
-// This program demonstrates method overriding in Java
+// This program demonstrates the method overriding in Java
 
 class Animal {
     void sound() {
